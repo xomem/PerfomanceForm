@@ -1,0 +1,10 @@
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\bin\Debug\PerformanceForm.exe.config
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\bin\Debug\PerformanceForm.exe
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\bin\Debug\PerformanceForm.pdb
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.Properties.Resources.resources
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.csproj.GenerateResource.cache
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.csproj.CoreCompileInputs.cache
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.exe
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.pdb
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.MainForm.resources
+C:\Users\Erika\source\repos\PerformanceForm\PerformanceForm\obj\Debug\PerformanceForm.csprojAssemblyReference.cache
